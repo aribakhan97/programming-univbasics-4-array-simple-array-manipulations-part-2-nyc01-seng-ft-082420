@@ -15,7 +15,9 @@ def using_flatten(array)
 end
 
 def using_delete(array, string)
-  array.string
+  array.delete
 end
 
-def using_delete_at
+def using_delete_at(array, Integer)
+  array.delete_at
+end
