@@ -3,5 +3,5 @@ def using_concat(skittles, twix)
 end
 
 def using_insert(array, pizza)
-  array.insert(piza[4])
+  array.insert(array)
 end
